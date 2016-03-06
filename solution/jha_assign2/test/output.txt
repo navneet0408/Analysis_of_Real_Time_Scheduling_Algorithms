@@ -1,0 +1,181 @@
+
+
+*****Analyzing TaskSet 0 :******
+
+RM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.200000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.466667
+Utilization bound: 0.828427
+Task 2 passed UB test
+Utilization/Density: 0.752381
+Utilization bound: 0.779763
+TaskSet 0 : Schedulable....
+DM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.200000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.466667
+Utilization bound: 0.828427
+Task 2 passed UB test
+Utilization/Density: 0.752381
+Utilization bound: 0.779763
+TaskSet 0 : Schedulable....
+LST Analysis
+Task 0 passed UB test
+Utilization/Density: 0.200000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.466667
+Utilization bound: 0.828427
+Task 2 passed UB test
+Utilization/Density: 0.752381
+Utilization bound: 0.779763
+TaskSet 0 : Schedulable....
+
+*****Analyzing TaskSet 1 :******
+
+RM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.400000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.666667
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 0.952381
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 300.000000
+Deadline: 350.000000
+TaskSet 1 : Schedulable....
+DM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.400000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.666667
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 0.952381
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 300.000000
+Deadline: 350.000000
+TaskSet 1 : Schedulable....
+LST Analysis
+Task 0 passed UB test
+Utilization/Density: 0.400000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.666667
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 0.952381
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 300.000000
+Deadline: 350.000000
+TaskSet 1 : Schedulable....
+
+*****Analyzing TaskSet 2 :******
+
+RM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.504808
+Utilization bound: 1.000000
+Task 1 inconclusive UB test
+Utilization/Density: 0.832850
+Utilization bound: 0.828427
+Doing RT test for task 1
+RT: 16.700001
+Deadline: 18.900000
+Task 2 inconclusive UB test
+Utilization/Density: 1.072850
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 19.099998
+Deadline: 10.000000
+TaskSet 2: Not Schedulable
+Task 2 Response Time: 19.099998
+Task 2 Deadline: 10.000000
+DM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.240000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.568042
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 1.072850
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 19.099998
+Deadline: 20.799999
+TaskSet 2 : Schedulable....
+LST Analysis
+Task 0 passed UB test
+Utilization/Density: 0.240000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.744808
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 1.072850
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 19.100000
+Deadline: 18.900000
+TaskSet 2: Not Schedulable
+Task 2 Response Time: 19.100000
+Task 2 Deadline: 18.900000
+
+*****Analyzing TaskSet 3 :******
+
+RM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.504808
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.779940
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 1.019940
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 18.099998
+Deadline: 10.000000
+TaskSet 3: Not Schedulable
+Task 2 Response Time: 18.099998
+Task 2 Deadline: 10.000000
+DM Analysis
+Task 0 passed UB test
+Utilization/Density: 0.240000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.515132
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 1.019940
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 18.099998
+Deadline: 20.799999
+TaskSet 3 : Schedulable....
+LST Analysis
+Task 0 passed UB test
+Utilization/Density: 0.240000
+Utilization bound: 1.000000
+Task 1 passed UB test
+Utilization/Density: 0.744808
+Utilization bound: 0.828427
+Task 2 inconclusive UB test
+Utilization/Density: 1.019940
+Utilization bound: 0.779763
+Doing RT test for task 2
+RT: 18.100000
+Deadline: 18.900000
+TaskSet 3 : Schedulable....Hello
